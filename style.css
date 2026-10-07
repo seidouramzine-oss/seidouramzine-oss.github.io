@@ -4,11 +4,11 @@
   --surface: #ffffff;
   --fg: #16231d;
   --muted: #55665d;
-  --line: #d5e0da;
-  --accent: #0b7a5a;
+  --line: #e1e7e4;
+  --accent: #0a6b4e;
   --accent-soft: #d8efe6;
   --on-accent: #ffffff;
-  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+  --font: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
