@@ -48,3 +48,6 @@ p { margin: 0; }
 .button:focus-visible { outline: 3px solid var(--fg); outline-offset: 3px; }
 ol { margin: 0; padding-left: 1.3em; display: grid; gap: 6px; }
 a.link { color: var(--accent); }
+
+.brand { justify-content: center; }
+.logo-img { display: block; width: min(360px, 100%); height: auto; border-radius: 18px; background: #0E2036; }
